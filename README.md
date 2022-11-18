@@ -5,14 +5,20 @@
 </h1>
 <h3 align="center">Frontend developer from Spain</h3>
 
-
 ![](https://komarev.com/ghpvc/?username=Dvaid0805&color=blueviolet)
 
-<h2>I'm in the internet:</h2>
-<a href="https://www.facebook.com/profile.php?id=100031561041379"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<p> 
+    I play board games, do crossfit, hunt for new information, and i just adore programming!</p>
+<p>
+    If you have questions about React, HTML, CSS JS, or you just want to chat about programming - write me! I'll be happy to help😁
+</p>
+
+
+<h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/davyd-bredykhin-1u961/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/davidbredihin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-
+<a href="https://t.me/Davyd_y_punto"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:correodemimobil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <h2>Languages and Tools</h2>
 
