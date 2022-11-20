@@ -13,7 +13,7 @@
     If you have questions about React, HTML, CSS JS, or you just want to chat about programming - write me! I'll be happy to help😁
 </p>
 <p>
-    My Projects are hosted here -> <a href="https://venerable-dieffenbachia-d0efb9.netlify.app/" target="_blank">Click me!</a>
+    My Projects are hosted here -> <a href="https://venerable-dieffenbachia-d0efb9.netlify.app/" target="_blank" >Click me!</a>
 </p>
 
 
