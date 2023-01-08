@@ -17,7 +17,7 @@
 </p>
 
 
-<h2>Contact with me:</h2>
+<h2>Contact me:</h2>
 <a href="https://www.linkedin.com/in/davyd-bredykhin-1u961/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/davidbredihin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/Davyd_y_punto"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -58,4 +58,4 @@
 
 ___
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dvaid0805&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvaid0805&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
