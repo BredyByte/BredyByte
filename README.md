@@ -16,15 +16,14 @@
 </p>
 
 
-<h3 style="font-size: 32px; font-weight: bold;">&#128222; Contact me:</h3>
+<h2>&#128222; Contact me:</h2>
 <a href="https://www.linkedin.com/in/davyd-bredykhin-1u961/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/davidbredihin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/Davyd_y_punto"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:correodemimobil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-___
 
-<h3 style="font-size: 32px; font-weight: bold;">&#127979; 42 Cursus:</h3>
+<h2>&#127979; 42 Cursus:</h2>
 <img src="https://badge.mediaplus.ma/levi/dbredykh?1337Badge=off&UM6P=off" alt="dbredykh's 42 stats" />
 
 <ul style="display: flex; gap: 0 10px; list-style: none; margin: 0;">
@@ -42,9 +41,7 @@ ___
     </li>
 </ul>
 
-___
-
-<h3 style="font-size: 32px; font-weight: bold;">&#x1F6E0; Languages & Tools:</h3>
+<h2>&#x1F6E0; Languages & Tools:</h2>
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></span>
@@ -76,8 +73,6 @@ ___
 <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></span>
 
-___
-
-<h3 style="font-size: 32px; font-weight: bold;">📊 Statistics:</h3>
+<h2>📊 Statistics:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvaid0805&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
