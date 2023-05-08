@@ -16,7 +16,7 @@
 </p>
 
 
-<h2>Contact me:</h2>
+<summary><h3>&#128222; Contact me:</h2></summary>
 <a href="https://www.linkedin.com/in/davyd-bredykhin-1u961/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/davidbredihin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/Davyd_y_punto"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -24,9 +24,7 @@
 
 ___
 
-<h2>42 Cursus:</h2>
-
-
+<summary><h2>&#127979; 42 Cursus:</h2></summary>
 <img src="https://badge.mediaplus.ma/levi/dbredykh?1337Badge=off&UM6P=off" alt="dbredykh's 42 stats" />
 
 <ul style="display: flex; gap: 0 10px; list-style: none; margin: 0;">
@@ -44,9 +42,9 @@ ___
     </li>
 </ul>
 
+___
 
-
-<h2>Languages & Tools:</h2>
+<summary><h2>&#x1F6E0; Languages & Tools:</h2></summary>
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></span>
@@ -80,6 +78,6 @@ ___
 
 ___
 
-<h2>Statistics:</h2>
+<summary><h2>📊 Statistics:</h2></summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvaid0805&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
