@@ -75,4 +75,4 @@
 
 <h2>📊 Statistics:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvaid0805&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvaid0805&hide=makefile&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
