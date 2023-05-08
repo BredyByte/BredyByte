@@ -17,11 +17,6 @@
 
 
 <h2>&#128222; Contact me:</h2>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
 <a href="https://www.instagram.com/davidbredihin/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://t.me/Davyd_y_punto"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="mailto:correodemimobil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -50,11 +45,9 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,styledcomponents,materialui,css,sass" />
 </p>
 <br>
-<br>
 <p>
     <img src="https://skillicons.dev/icons?i=nodejs,express,jquery,react,redux,threejs,html" />
 </p>
-<br>
 <br>
 <p>
     <img src="https://skillicons.dev/icons?i=python,c,js,ts" />
