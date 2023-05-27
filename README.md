@@ -1,3 +1,11 @@
+<style>
+.list {
+    display: flex;
+    gap: 0 10px;
+    list-style: none;
+    margin: 0;
+}
+</style>
 <h1 align="center">
     Hi there, I'm David 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
@@ -26,7 +34,7 @@
 <h2>&#127979; 42 Cursus:</h2>
 <img src="https://badge.mediaplus.ma/levi/dbredykh?1337Badge=off&UM6P=off" alt="dbredykh's 42 stats" />
 
-<ul style="display: flex; gap: 0 10px; list-style: none; margin: 0;">
+<ul class="list" style="display: flex; gap: 0 10px; list-style: none; margin: 0;">
     <li>
         <h3>Libft:</h3>
         <a target="_blank" rel="noreferrer" href="https://github.com/Dvaid0805/42_LIbft">
