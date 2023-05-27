@@ -28,15 +28,21 @@
 
 <div>
     <span>
-        <span>Libft:</span>
+        <b>Libft:</b>
         <a target="_blank" rel="noreferrer" href="https://github.com/Dvaid0805/42_LIbft">
             <img src="https://badge42.vercel.app/api/v2/clherdu8j002508l3x43xkiqg/project/3066619" alt="dbredykh's 42 Libft Score" />
         </a>
     </span>
     <span>
-        <span>ft_printf:</span>
+        <b>ft_printf:</b>
         <a href="https://github.com/Dvaid0805/42_ft_printf">
             <img src="https://badge42.vercel.app/api/v2/clherdu8j002508l3x43xkiqg/project/3080494" alt="dbredykh's 42 ft_printf Score" />
+        </a>
+    </span>
+    <span>
+        <b>Born2beroot:</b>
+        <a href="https://github.com/JaeSeoKim/badge42">
+            <img src="https://badge42.vercel.app/api/v2/clherdu8j002508l3x43xkiqg/project/3092084" alt="dbredykh's 42 Born2beroot Score" />
         </a>
     </span>
 </div>
