@@ -1,11 +1,3 @@
-<style>
-.list {
-    display: flex;
-    gap: 0 10px;
-    list-style: none;
-    margin: 0;
-}
-</style>
 <h1 align="center">
     Hi there, I'm David 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
@@ -34,20 +26,20 @@
 <h2>&#127979; 42 Cursus:</h2>
 <img src="https://badge.mediaplus.ma/levi/dbredykh?1337Badge=off&UM6P=off" alt="dbredykh's 42 stats" />
 
-<ul class="list" style="display: flex; gap: 0 10px; list-style: none; margin: 0;">
-    <li>
-        <h3>Libft:</h3>
+<div>
+    <span>
+        <span>Libft:</span>
         <a target="_blank" rel="noreferrer" href="https://github.com/Dvaid0805/42_LIbft">
             <img src="https://badge42.vercel.app/api/v2/clherdu8j002508l3x43xkiqg/project/3066619" alt="dbredykh's 42 Libft Score" />
         </a>
-    </li>
-    <li>
-        <h3>ft_printf:</h3>
+    </span>
+    <span>
+        <span>ft_printf:</span>
         <a href="https://github.com/Dvaid0805/42_ft_printf">
             <img src="https://badge42.vercel.app/api/v2/clherdu8j002508l3x43xkiqg/project/3080494" alt="dbredykh's 42 ft_printf Score" />
         </a>
-    </li>
-</ul>
+    </span>
+</div>
 
 <h2>&#x1F6E0; Languages & Tools:</h2>
 <span><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></span>
@@ -80,7 +72,3 @@
 <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
 <span><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black"/></span>
 <span><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></span>
-
-<h2>📊 Statistics:</h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dvaid0805&hide=makefile&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
