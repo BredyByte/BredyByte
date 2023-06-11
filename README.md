@@ -45,6 +45,12 @@
             <img src="https://badge42.vercel.app/api/v2/clherdu8j002508l3x43xkiqg/project/3092084" alt="dbredykh's 42 Born2beroot Score" />
         </a>
     </span>
+    <span>
+        <b>Born2beroot:</b>
+        <a href="https://github.com/JaeSeoKim/badge42">
+            <img src="https://badge42.vercel.app/api/v2/clherdu8j002508l3x43xkiqg/project/3080495" alt="dbredykh's 42 get_next_line Score" />
+        </a>
+    </span>
 </div>
 
 <h2>&#x1F6E0; Languages & Tools:</h2>
