@@ -46,8 +46,8 @@
         </a>
     </span>
     <span>
-        <b>Born2beroot:</b>
-        <a href="https://github.com/JaeSeoKim/badge42">
+        <b>Get_next_line:</b>
+        <a href="https://github.com/Dvaid0805/42_get_next_line">
             <img src="https://badge42.vercel.app/api/v2/clherdu8j002508l3x43xkiqg/project/3080495" alt="dbredykh's 42 get_next_line Score" />
         </a>
     </span>
