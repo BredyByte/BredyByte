@@ -1,11 +1,11 @@
 <h1 align="center">
     Hi there, I'm David
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-</h1>
-<h3 align="center">Frontend developer and Student of 42 Málaga</h3>
+    <h3 align="center">Frontend developer and Student of 42 Málaga</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dvaid0805&color=blueviolet" alt="profile views">
 </p>
+</h1>
 <h2>🤓 About:</h2>
 <p>
     I play board games, do crossfit, hunt for new information, and i just adore programming!</p>
