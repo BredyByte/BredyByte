@@ -1,5 +1,5 @@
 <!--- Waving github https://github.com/kyechan99/capsule-render -->
-<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20:f720db,80:ff6a00&height=140&section=header"></a>
+<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20:00C9FF,80:92FE9D&height=140&section=header"></a>
 
 <!--- Tapping github https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="#"
@@ -7,7 +7,7 @@
 </a>
 <h2 align="center">🤓 About me:</h2>
 <p>
-    Hi there! 👋 I'm David, a passionate Frontend Developer and a student at Campus 42 Málaga. Currently, I'm immersed in the exciting world of programming while juggling my studies and other interests.
+    Hi there! I'm David, a passionate Frontend Developer and a student at Campus 42 Málaga. Currently, I'm immersed in the exciting world of programming while juggling my studies and other interests.
 </p>
 <p>
     When I'm not coding, you'll find me engaged in board games, pushing my limits at crossfit, and constantly hunting for new information to broaden my horizons. I believe in the power of continuous learning and embrace challenges with enthusiasm.
@@ -27,5 +27,5 @@
     <img src="https://skillicons.dev/icons?i=vim"/>
     <img src="https://skillicons.dev/icons?i=python"/>
 </div>
-<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90:ff6a00,10:f720db:&&height=140&section=footer"></a>
+<a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90:92FE9D,10:00C9FF:&&height=140&section=footer"></a>
 
