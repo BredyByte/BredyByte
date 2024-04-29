@@ -7,10 +7,10 @@
 </a>
 <h2 align="center">🤓 About me:</h2>
 <p>
-    Hi there! I'm Davyd, a passionate Frontend Developer and a student at Campus 42 Málaga. Currently, I'm immersed in the exciting world of programming while juggling my studies and other interests.
+    Hey! I'm Davyd, a tech enthusiast studying at Campus 42 Málaga. I'm deeply passionate about low-level programming, cybersecurity, and DevOps. Always on the lookout for exciting challenges and ways to grow in the tech field!
 </p>
 <p>
-    When I'm not coding, you'll find me engaged in board games, pushing my limits at crossfit, and constantly hunting for new information to broaden my horizons. I believe in the power of continuous learning and embrace challenges with enthusiasm.
+    When I'm not coding, you'll find me engaged in board games, pushing my limits at crossfit, and constantly hunting for new information to broaden my horizons reading books.
 </p>
 <p>
     Explore some of my web projects here ➡️ <a href="https://venerable-dieffenbachia-d0efb9.netlify.app/" target="_blank">Click me!</a>
@@ -24,8 +24,10 @@
     <img src="https://skillicons.dev/icons?i=react"/>
     <img src="https://skillicons.dev/icons?i=c"/>
     <img src="https://skillicons.dev/icons?i=cpp"/>
-    <img src="https://skillicons.dev/icons?i=vim"/>
     <img src="https://skillicons.dev/icons?i=python"/>
+    <img src="https://skillicons.dev/icons?i=vim"/>
+    <img src="https://skillicons.dev/icons?i=bash"/>
+    <img src="https://skillicons.dev/icons?i=git"/>
 </div>
 <a href="#" onclick="return false;"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=90:92FE9D,10:00C9FF:&&height=140&section=footer"></a>
 
