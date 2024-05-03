@@ -3,7 +3,7 @@
 
 <!--- Tapping github https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="#"
-    >![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=40&center=true&vCenter=true&width=1000&duration=3000&pause=600&lines=Hi+there,+i`m+Davyd!👋;42+Malága+student+and+Frontend+Developer;Welcome+to+my+GitHub+Page!😁)
+    >![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=40&center=true&vCenter=true&width=1000&duration=3000&pause=600&lines=Hi+there,+i`m+Davyd!👋;Malága+42+student;Welcome+to+my+GitHub+Page!😁)
 </a>
 <h2 align="center">🤓 About me:</h2>
 <p>
