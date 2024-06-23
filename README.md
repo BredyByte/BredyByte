@@ -24,7 +24,6 @@
     <img src="https://skillicons.dev/icons?i=c"/>
     <img src="https://skillicons.dev/icons?i=cpp"/>
     <img src="https://skillicons.dev/icons?i=python"/>
-    <img src="https://skillicons.dev/icons?i=django"/>
     <img src="https://skillicons.dev/icons?i=vim"/>
     <img src="https://skillicons.dev/icons?i=bash"/>
     <img src="https://skillicons.dev/icons?i=git"/>
