@@ -7,10 +7,10 @@
 </a>
 <h2 align="center">About me:</h2>
 <p>
-    Hey! I'm Davyd, a Campus 42 Málaga student. I'm deeply passionate about cybersecurity, web development and low-level programming. Always on the lookout for exciting challenges and ways to grow in the tech field!
+    Hi! My name is Davyd, a member at 42 Málaga Fundación Telefónica with a deep passion for cybersecurity, computer networking, DevOps, and cloud. Continuously seeking to expand my knowledge in these fields and apply my     skills to real-world projects.
 </p>
 <p>
-    When I'm not coding, you'll find me engaged in board games, pushing my limits at crossfit, and constantly hunting for new information to broaden my horizons reading books.
+    When I'm not coding, you'll find me engaged in board games, pushing my limits at crossfit, and constantly hunting for new information to broaden my horizons reading books!!
 </p>
 <h2  align="center" >Languages & Tools:</h2>
 <div align="center" style="display: inline_block"><br>
