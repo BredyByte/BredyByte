@@ -7,7 +7,7 @@
 </a>
 <h2 align="center">About me:</h2>
 <p>
-    Hi! My name is Davyd, a member at 42 Málaga Fundación Telefónica with a deep passion for cybersecurity, computer networking, DevOps, and cloud. Continuously seeking to expand my knowledge in these fields and apply my     skills to real-world projects.
+    Hey! My name is Davyd, a 42 Málaga Fundación Telefónica member with a deep passion for cybersecurity, computer networking, DevOps, and cloud. Continuously seeking to expand my knowledge in these fields and apply my     skills to real-world projects.
 </p>
 <p>
     When I'm not coding, you'll find me engaged in board games, pushing my limits at crossfit, and constantly hunting for new information to broaden my horizons reading books!!
